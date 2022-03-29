@@ -1,7 +1,7 @@
 {
   "name": "useruid",
   "version": "1.0.0",
-  "description": "useruid is used t generate a very unique user id in javascript",
+  "description": "useruid is used t generate a very unique user id",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
