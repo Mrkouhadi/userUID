@@ -3,9 +3,9 @@
 ## install :
     `npm install useruid`;
 ## Usage :
-    `import userid from 'userid';`
+    `const id = require('userUId');`
     
-    `useruid('MrKouhadi', 30)`
+    `id('MrKouhadi', 30)`
     or
-    ` useruid()`
+    `id()`
     
