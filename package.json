@@ -1,6 +1,6 @@
 {
   "name": "useruid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "useruid is used t generate a very unique user id",
   "main": "index.js",
   "scripts": {
