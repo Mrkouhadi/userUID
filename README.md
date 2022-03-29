@@ -4,6 +4,8 @@
     `npm install useruid`;
 ## Usage :
     `import userid from 'userid';`
-    `useruid('MrKouhadi', 30) // or 
-     useruid()
-    `
+    
+    `useruid('MrKouhadi', 30)`
+    or
+    ` useruid()`
+    
