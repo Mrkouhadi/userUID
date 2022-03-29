@@ -1,0 +1,25 @@
+{
+  "name": "useruid",
+  "version": "1.0.0",
+  "description": "useruid is used t generate a very unique user id in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrkouhadi/userUID.git"
+  },
+  "keywords": [
+    "uid",
+    "uniqueid",
+    "userid",
+    "id"
+  ],
+  "author": "mr.kouhadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mrkouhadi/userUID/issues"
+  },
+  "homepage": "https://github.com/Mrkouhadi/userUID#readme"
+}
