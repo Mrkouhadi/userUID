@@ -1,4 +1,4 @@
-### useruid is a very simple and light(1.14kB) package that can help you generate your own unique id, and also you can add username(string) and age(number) as arguments to make the id specific
+### useruid is a very simple and light(less than 2kB) package that can help you generate your own unique id, and also you can add username(string) and age(number) as arguments to make the id specific
 
 ## install :
     `npm install useruid`
