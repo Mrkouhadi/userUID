@@ -3,8 +3,9 @@
 ## install :
     `npm install useruid`
 ## Usage :
-    `const id = require('userUId')`
     
+    `const id = require('userUId')`
+    You can add two OPTIONAL arguments: name (string) and age (number)
     `id('MrKouhadi', 30)`
     or
     `id()`
